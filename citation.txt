@@ -1,0 +1,9 @@
+@misc{REPO323,
+    author = "He, Zhongmou and Zhu, Jing and Qian, Shengyi and Chai, Joyce and Koutra, Danai",
+    archiveprefix = "arXiv",
+    eprint = "2406.04640",
+    primaryclass = "cs.LG",
+    title = "{LinkGPT: Teaching Large Language Models To Predict Missing Links}",
+    url = "https://arxiv.org/abs/2406.04640",
+    year = "2024"
+}
